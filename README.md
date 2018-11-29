@@ -1,4 +1,4 @@
-# New-check.html
+# New
 is a node caption
 
 check.html
